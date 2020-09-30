@@ -1043,6 +1043,9 @@ textarea:focus {
     height: 160px;
     margin-top: 5px;
     resize: none;
+    width: 78%;
+    display: block;
+    margin-left: 14.5%;
 }
 
 .contact input[type='submit'] {
